@@ -1,1 +1,2 @@
-# Materia-em-andamento
+# Materia-em-andamento-
+Parte Logica
